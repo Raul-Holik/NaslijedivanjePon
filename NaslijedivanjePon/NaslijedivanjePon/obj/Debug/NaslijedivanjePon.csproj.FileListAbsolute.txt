@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\bin\Debug\NaslijedivanjePon.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\bin\Debug\NaslijedivanjePon.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\bin\Debug\NaslijedivanjePon.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\obj\Debug\NaslijedivanjePon.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\obj\Debug\NaslijedivanjePon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\obj\Debug\NaslijedivanjePon.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\obj\Debug\NaslijedivanjePon.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\NaslijedivanjePon\NaslijedivanjePon\obj\Debug\NaslijedivanjePon.pdb
